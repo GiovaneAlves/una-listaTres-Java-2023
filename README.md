@@ -1,1 +1,3 @@
-# una-listaTres-Java-2023
+### Linguagem Utilizada: Java
+### Projeto: Lista de Exercícios 
+ 
