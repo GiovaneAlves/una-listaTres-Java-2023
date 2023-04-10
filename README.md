@@ -1,3 +1,3 @@
-### Linguagem Utilizada: Java
-### Projeto: Lista de Exercícios 
+### - Linguagem Utilizada: Java
+### - Projeto: Lista de Exercícios 
  
